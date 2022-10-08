@@ -1,10 +1,2 @@
-# Demo
-.md is markdown
-Yeah THis is it
-## Heading 2
- this is crazy
- doesn't get updated why?
- Yeah finally It does
-
- ## TO write in First update
- Branching also works?
+# Prescribed Time Prescribed bound with input constraints 
+This repo consists of files for Gazebo implementation of PTPB input constraints Quad
