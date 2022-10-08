@@ -7,8 +7,8 @@ import array as arr
 #lt.plot(x,np.sin(x)+np.cos(x))
 #plt.show()
 
-#msg='Hi Mr.Krishna'
-#print(msg)
+msg='Hi Mr.Krishna'
+print(msg)
 
 a=arr.array('i',[1,2,3])
 print('The new created array is : ',end='')
